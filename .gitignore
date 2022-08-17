@@ -1,0 +1,5 @@
+references/
+cicdct_venv/
+*.log
+datasets/
+.ipynb_checkpoints
